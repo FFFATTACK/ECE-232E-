@@ -1,0 +1,13 @@
+101515		Boucher-L'Écuyer, Émile Pascal		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Leonard, Joshua		Williams, Michael C.		Charlebois, Jessica		Donahue, Heather (I)		Valin, Andréanne		
+101514		Boucher-L'Écuyer, Émile Pascal		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		Guimont, Mélanie		Valin, Andréanne		
+101516		Boucher-L'Écuyer, Émile Pascal		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		Guimont, Mélanie		Valin, Andréanne		
+101517		Boucher-L'Écuyer, Émile Pascal		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		Guimont, Mélanie		Valin, Andréanne		
+101518		Boucher-L'Écuyer, Émile Pascal		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		Guimont, Mélanie		
+101519		Boucher-L'Écuyer, Émile Pascal		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		Valin, Andréanne		
+101520		Boucher-L'Écuyer, Émile Pascal		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		Guimont, Mélanie		Valin, Andréanne		
+101521		Boucher-L'Écuyer, Émile Pascal		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		Guimont, Mélanie		Valin, Andréanne		
+101522		Boucher-L'Écuyer, Émile Pascal		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		
+101523		Boucher-L'Écuyer, Émile Pascal		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		Guimont, Mélanie		Valin, Andréanne		
+101864		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Guimont, Mélanie		Valin, Andréanne		
+101865		Bourassa-Simpson, Mathieu		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Guimont, Mélanie		Valin, Andréanne		
+151138		Desjardins, Nick		Lafond-Martel, Olivier		Legros, Simon (I)		Charlebois, Jessica		Guimont, Mélanie		Valin, Andréanne		
